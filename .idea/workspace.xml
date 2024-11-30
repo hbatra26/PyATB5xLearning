@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9329648d-835a-4d7c-b0ff-5a22074fa663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_7112024_Keywrds/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_7112024_Keywrds/Lab003_dynamically_typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_7112024_Keywrds/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_7112024_Keywrds/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_7112024_Keywrds/Lab006_maxofnos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/Lab007_user ip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_5112024_Python_Basics/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_5112024_Python_Basics/Lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics/Lab002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics/Lab003_dynamically_typed.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics/Lab004.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics/Lab005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics/Lab006_maxofnos.py" beforeDir="false" />
+    <list default="true" id="9329648d-835a-4d7c-b0ff-5a22074fa663" name="Changes" comment="7th nov commit">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_9112024_Literals/Lab008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,12 +170,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732462677026</updated>
-      <workItem from="1732462678012" duration="6930000" />
+      <workItem from="1732462678012" duration="7122000" />
     </task>
+    <task id="LOCAL-00001" summary="7th nov commit">
+      <option name="closed" value="true" />
+      <created>1733004304864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733004304864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7th nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th nov commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab007_user_ip.coverage" NAME="Lab007_user ip Coverage Results" MODIFIED="1733004232200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov" />
