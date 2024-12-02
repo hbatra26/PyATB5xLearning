@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9329648d-835a-4d7c-b0ff-5a22074fa663" name="Changes" comment="8th nov commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Loops/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Looping/Task1_fizzbuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Looping/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab011.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +57,8 @@
     "Python.Lab006_maxofnos.executor": "Run",
     "Python.Lab007_user ip.executor": "Run",
     "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
     "Python.Task 2.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task1_fizzbuzz.executor": "Run",
@@ -183,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732462677026</updated>
-      <workItem from="1732462678012" duration="15347000" />
+      <workItem from="1732462678012" duration="18642000" />
     </task>
     <task id="LOCAL-00001" summary="7th nov commit">
       <option name="closed" value="true" />
@@ -241,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733053528898</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="8th nov commit">
+      <option name="closed" value="true" />
+      <created>1733070432932</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733070432932</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +266,7 @@
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab007_user_ip.coverage" NAME="Lab007_user ip Coverage Results" MODIFIED="1733004232200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov" />
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab004.coverage" NAME="Lab004 Coverage Results" MODIFIED="1732999967063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics" />
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Task1_fizzbuzz.coverage" NAME="Task1_fizzbuzz Coverage Results" MODIFIED="1733070375939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_16112024_Looping" />
+    <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab011.coverage" NAME="Lab011 Coverage Results" MODIFIED="1733140574472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab002.coverage" NAME="Lab002 Coverage Results" MODIFIED="1732999531774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics" />
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Task_2.coverage" NAME="Task 2 Coverage Results" MODIFIED="1733053387967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_12112024_operators" />
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab003_dynamically_typed.coverage" NAME="Lab003_dynamically_typed Coverage Results" MODIFIED="1732999878523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics" />
@@ -265,5 +275,6 @@
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab006_maxofnos.coverage" NAME="Lab006_maxofnos Coverage Results" MODIFIED="1733000280415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics" />
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab005.coverage" NAME="Lab005 Coverage Results" MODIFIED="1733000129720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_7112024_Python_Basics" />
     <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1732467023000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_5112024_Python_Basics" />
+    <SUITE FILE_PATH="coverage/PyATB5xLearning$Lab010.coverage" NAME="Lab010 Coverage Results" MODIFIED="1733139474887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
   </component>
 </project>
